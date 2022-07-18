@@ -12,6 +12,8 @@ Repositório do Desafio de Projeto sobre Git/GitHub da DIO
 
 [Link para download do Git (GUI, Bash e CMD):](https://git-scm.com/downloads)
 
+[Consultando comandos do GIT Bash](https://woliveiras.com.br/posts/comandos-mais-utilizados-no-git/)
+
 [Cursos de Aceleração da DIO](https://web.dio.me/accelerations)
 
 [Orientador da DIO - Venilton Falvo Jr.]
