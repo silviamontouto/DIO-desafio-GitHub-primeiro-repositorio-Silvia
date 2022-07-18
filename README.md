@@ -15,6 +15,6 @@ Repositório do Desafio de Projeto sobre Git/GitHub da DIO
 
 [Orientador da DIO - Venilton Falvo Jr.]
 
-[LinkedIn falvojr](https://linkedin.com/in/falvojr)
+[**LinkedIn* falvojr](https://linkedin.com/in/falvojr)
 
-[GitHub falvojr](https://github.com/falvojr)
+[**GitHub* falvojr](https://github.com/falvojr)
