@@ -13,4 +13,8 @@ Repositório do Desafio de Projeto sobre Git/GitHub da DIO
 
 [Cursos de Aceleração da DIO](https://web.dio.me/accelerations)
 
-[Orientador da DIO - Venilton Falvo Jr.] [LinkedIn falvojr](https://linkedin.com/in/falvojr) [GitHub falvojr](https://github.com/falvojr)
+[Orientador da DIO - Venilton Falvo Jr.]
+
+[LinkedIn falvojr](https://linkedin.com/in/falvojr)
+
+[GitHub falvojr](https://github.com/falvojr)
