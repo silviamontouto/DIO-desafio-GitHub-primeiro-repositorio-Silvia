@@ -1,6 +1,7 @@
 # DIO-desafio-GitHub-primeiro-repositorio-Silvia
 Repositório do Desafio de Projeto sobre Git/GitHub da DIO
 
+
 ##Links Utéis
 
 [Síntaxe Básica Markdown](Https://www.markdownguide.org/basic-syntax/)
@@ -15,6 +16,6 @@ Repositório do Desafio de Projeto sobre Git/GitHub da DIO
 
 [Orientador da DIO - Venilton Falvo Jr.]
 
-[**LinkedIn* falvojr](https://linkedin.com/in/falvojr)
-
-[**GitHub* falvojr](https://github.com/falvojr)
+* [*LinkedIn* falvojr](https://linkedin.com/in/falvojr)
+  
+* [*GitHub* falvojr](https://github.com/falvojr)
