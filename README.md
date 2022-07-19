@@ -14,6 +14,8 @@ Repositório do Desafio de Projeto sobre Git/GitHub da DIO
 
 [Consultando comandos do GIT Bash](https://woliveiras.com.br/posts/comandos-mais-utilizados-no-git/)
 
+[Comandos explicados do GIT Bash, por Leonardo Comelli](https://gist.github.com/leocomelli/2545add34e4fec21ec16#remover-diret%C3%B3rio)
+
 [Cursos de Aceleração da DIO](https://web.dio.me/accelerations)
 
 [Orientador da DIO - Venilton Falvo Jr.]
