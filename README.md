@@ -14,14 +14,14 @@ Repositório do Desafio de Projeto sobre Git/GitHub da DIO
 
 [5 - Consultando comandos do GIT, por William Oliveira](https://woliveiras.com.br/posts/comandos-mais-utilizados-no-git/)
 
-[6 - Comandos explicados do GIT, por Leonardo Comelli](https://gist.github.com/leocomelli/2545add34e4fec21ec16#remover-diret%C3%B3rio)
+[6 - Comando Git organizados num fluxograma, por Sílvia Montouto]([Miro | Online Whiteboard for Visual Collaboration](https://miro.com/app/board/uXjVOldulIM=/?share_link_id=605179229425)
 
-[7 - Cursos de Aceleração da DIO](https://web.dio.me/accelerations)
+[7 - Comandos explicados do GIT, por Leonardo Comelli](https://gist.github.com/leocomelli/2545add34e4fec21ec16#remover-diret%C3%B3rio)
+
+[8 - Cursos de Aceleração da DIO](https://web.dio.me/accelerations)
 
 [Orientador da DIO - Venilton Falvo Jr.]
 
 * [*LinkedIn* falvojr](https://linkedin.com/in/falvojr)
 
 * [*GitHub* falvojr](https://github.com/falvojr)
-
-
